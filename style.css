@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+  
+}
+
+body {
+  width: 100%;
+  height: auto;
+  color: #fff;
+  background-color: rgba(32, 32, 141, 0.852);
+}
+
+.container {
+  display: block;
+  align-items: center;
+  text-align: center;
+  padding-top: 80px;
+  
+ 
+   
+}
+
+.input {
+  padding-top: 20px;
+ 
+}
+
+.button {
+  margin-top: 20px;
+  color: #000;
+}
+
+#resultado {
+  margin-top: 20px;
+  font-weight: bold;
+  color:#000;
+  font-family: 'Times New Roman', Times, serif;
+  border: 1px solid darkblue;
+  background-color: aqua;
+}
+
+.footer {
+text-align: center;
+
+margin-top: 100px;
+}
+
+.footer a {
+  color: black;
+}
